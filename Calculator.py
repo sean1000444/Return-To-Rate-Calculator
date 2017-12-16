@@ -9,5 +9,6 @@ print("Which valuates a plot to $", endManaDollarPrice*1000, "and MANA at $", en
 
 desiredETH = endDollar / ETH_price
 desiredEthToMANA = desiredETH / initialMANA
+test = 0
 
 print(desiredEthToMANA)
